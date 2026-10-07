@@ -1,0 +1,17 @@
+.gcloudignore
+.git
+.venv
+.local
+.env
+.env.*
+**/node_modules
+**/dist
+**/__pycache__
+.pytest_cache
+.ruff_cache
+credentials*.json
+*-key.json
+application_default_credentials.json
+.config/gcloud/
+*.pem
+*.p12

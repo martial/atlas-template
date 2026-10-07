@@ -1,0 +1,2 @@
+# Catalogue queries use only the collection equality index; no composite index needed.
+indexes: []
